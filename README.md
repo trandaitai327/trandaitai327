@@ -1,7 +1,7 @@
 ### Hi, I'm Tran Dai Tai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> = Data Scientist + Data Engineer 🌱 
 
 
-- 🔭 I'm passionate about Data Science (DS), Machine Learning, 
+- 🔭 I'm passionate about Data Science (DS), Machine Learning, Deep Learning
 - 🥅 2021 Goals: learn a lot of new knowledge
 - ⚡ Reading, listening and playing  😅
 ### :zap: GitHub Stats
