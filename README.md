@@ -12,7 +12,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=trandaitai327&show_icons=true&hide=contribs,issues&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trandaitai327&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src="giphy.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/></td>
 </tr>
 <table>
 ### Languages and Tools:
